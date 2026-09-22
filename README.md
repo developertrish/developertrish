@@ -4,12 +4,12 @@
 
 <p align="center">
   <a href="https://github.com/developertrish">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&width=600&lines=Fullstack+Software+Engineer;Laravel+%2B+Vue+enthusiast;Building+fast%2C+clean+web+apps;Exploring+AI-powered+products" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&width=600&lines=Fullstack+Software+Engineer;Laravel+%2B+Vue+developer;Building+fast%2C+clean+web+apps;Exploring+AI-powered+products" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=7c3aed&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=developertrish&label=Profile%20views&color=7c3aed&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -49,16 +49,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=developertrish&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developertrish&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=developertrish&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=developertrish&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
 </p>
 
 ---
