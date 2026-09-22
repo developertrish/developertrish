@@ -1,11 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:06b6d4&height=180&section=header&text=Hi,%20I'm%20Trishin%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="header" />
+  <img src="cave-header.svg" width="100%" alt="A high-tech developer setup inside a cave" />
 </p>
-
 <p align="center">
-  <a href="https://github.com/developertrish">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&width=600&lines=Fullstack+Software+Engineer;Laravel+%2B+Vue+developer;Building+fast%2C+clean+web+apps;Exploring+AI-powered+products" alt="Typing SVG" />
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&width=600&lines=Fullstack+Software+Engineer;Laravel+%2B+Vue+enthusiast;Building+fast%2C+clean+web+apps;Exploring+AI-powered+products" alt="Typing SVG" />
   </a>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=7c3aed&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -67,5 +69,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:7c3aed&height=100&section=footer" alt="footer" />
+  <img src="cave-footer.svg" width="100%" alt="Cave floor with a glowing data cable" />
 </p>
